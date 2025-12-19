@@ -17,6 +17,7 @@ This project is a small re‑implementation of Git’s core ideas, originally in
 ---
 
 ## Repository Structure
+```
 mini-git-project/
 │
 ├── mini_git/
@@ -29,6 +30,8 @@ mini-git-project/
 │
 ├── a.txt
 └── README.md
+```
+
 
 
 When initialized, the project creates a `.minigit/` directory:
