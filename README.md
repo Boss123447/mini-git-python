@@ -20,15 +20,16 @@ This project is a small re‑implementation of Git’s core ideas, originally in
 mini-git-project/
 │
 ├── mini_git/
-│   ├── __init__.py
-│   ├── __main__.py
+│   ├── init.py
+│   ├── main.py
 │   ├── commands.py
 │   ├── objects.py
 │   ├── index.py
 │   └── refs.py
-│   
-│── a.txt        # test file
+│
+├── a.txt
 └── README.md
+
 
 When initialized, the project creates a `.minigit/` directory:
 .minigit/
