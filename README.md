@@ -35,11 +35,12 @@ mini-git-project/
 
 
 When initialized, the project creates a `.minigit/` directory:
+```
 .minigit/
 ├── objects/  # stored blobs, trees, commits
 ├── index/    # staging area
 └── HEAD      # current commit reference
-
+```
 ---
 
 ## Usage
